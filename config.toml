@@ -16,7 +16,7 @@ title = "venkan"
 copyright = "&copy; 2018 Venkatesh Kancherla"
 
 theme = "hugo-academic"
-enableEmoji = false
+enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -68,10 +68,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "venky198922@gmail.com"
   address = "Basel, Switzerland"
-  office_hours = ""
-  phone = ""
-  skype = ""
-  telegram = ""
+  #office_hours = ""
+  #phone = ""
+  #skype = ""
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -266,10 +266,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
