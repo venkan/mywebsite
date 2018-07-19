@@ -32,6 +32,6 @@ weight = 5
  
 +++
 
-# Biography
+# Namaste
 
-I am an Early Stage Researcher 
+I'm an Early Stage Researcher in [Oncogenomics Laboratory](http://oncogenomicslab.org/) at Institute of Pathology, Universitätsspital Basel. 

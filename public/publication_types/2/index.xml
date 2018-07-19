@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on venkan</title>
+    <title>2 on Ven Kan</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on venkan</description>
+    <description>Recent content in 2 on Ven Kan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Venkatesh Kancherla</copyright>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/firstpublication/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

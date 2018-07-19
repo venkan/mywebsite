@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "venkan"
+title = "Ven Kan"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Basel", url = "https://www.unibas.ch/en.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "try.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "venky198922@gmail.com"
   address = "Basel, Switzerland"
   #office_hours = ""
@@ -226,10 +226,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  # link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
@@ -245,6 +245,16 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/venkan"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/vkancherla/"
+    
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/bujji7/"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
