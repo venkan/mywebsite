@@ -18,7 +18,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computational Biology"
   institution = "University of Basel"
-  year = 2016 - Present
+  year = 2016
 
 [[education.courses]]
   course = "MS in LifeScience Informatics"
